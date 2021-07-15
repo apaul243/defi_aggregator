@@ -1,4 +1,4 @@
-DeFi Aggregator
+# DeFi Aggregator
 
 Building a defi loan and yield comparison tool across major defi platforms i.e Aave, Compound, dydyx, cream etc. 
 
